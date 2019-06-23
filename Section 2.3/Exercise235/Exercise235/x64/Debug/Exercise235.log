@@ -1,0 +1,3 @@
+﻿  Line.cpp
+c:\users\ssido\onedrive\desktop\scott_sidoli level 3 hw submission\level 3\section 2.3\exercise235\exercise235\line.cpp(30): error C3867: 'Line::start': non-standard syntax; use '&' to create a pointer to member
+c:\users\ssido\onedrive\desktop\scott_sidoli level 3 hw submission\level 3\section 2.3\exercise235\exercise235\line.cpp(30): error C3867: 'Line::end': non-standard syntax; use '&' to create a pointer to member
