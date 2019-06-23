@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise73", "Exercise73\Exercise73.vcxproj", "{5290D43F-1D18-4800-98DB-E649610D529E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Debug|x64.ActiveCfg = Debug|x64
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Debug|x64.Build.0 = Debug|x64
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Debug|x86.Build.0 = Debug|Win32
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Release|x64.ActiveCfg = Release|x64
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Release|x64.Build.0 = Release|x64
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Release|x86.ActiveCfg = Release|Win32
+		{5290D43F-1D18-4800-98DB-E649610D529E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE8249AE-1355-459A-8EDC-D26C559D6E67}
+	EndGlobalSection
+EndGlobal
